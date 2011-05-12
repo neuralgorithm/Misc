@@ -1,0 +1,12 @@
+Random codes.
+
+fizzbuzz.clj:
+	Lazy FizzBuzz in Clojure.
+
+nabeatsu.clj:
+	Lazy Nabeatsu in Clojure.
+
+replace-at.clj:
+	For Incanter.
+	Receives a matrix or a vector, replaces an element, and returns
+	the resulting matrix or vector.
